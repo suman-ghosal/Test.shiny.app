@@ -1,0 +1,20 @@
+Package: Test.shiny.app
+Title: Test of Shiny app deployment
+Version: 0.0.1
+Authors@R: person('Ghosal', 'Suman', email = 'suman.ghosal@nih.gov', role = c('cre', 'aut'))
+Description: Testing of a shiny app for deployment at posit.
+License: What license is it under?
+Imports: 
+    golem (>= 0.4.0),
+    shiny (>= 1.7.3),
+    ggridges(>= 0.5.4),
+    shinyFiles,
+    shinyjs
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Language: en-US

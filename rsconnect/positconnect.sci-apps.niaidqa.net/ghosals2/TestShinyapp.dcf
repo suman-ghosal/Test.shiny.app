@@ -1,0 +1,12 @@
+name: testshinyapp
+title: Test.shiny.app
+username: ghosals2
+account: ghosals2
+server: positconnect.sci-apps.niaidqa.net
+hostUrl: https://positconnect.sci-apps.niaidqa.net/__api__
+appId: 15
+bundleId: 27
+url: https://positconnect.sci-apps.niaidqa.net/content/90356e9c-7fc1-4796-972b-16df651132be/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
