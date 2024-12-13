@@ -15,7 +15,7 @@ pageWithSidebar(
     selectInput('xcol', 'X Variable', vars),
     selectInput('ycol', 'Y Variable', vars, selected = vars[[2]]),
     #numericInput('clusters', 'Cluster count', 3, min = 1, max = 9)
-    sliderInput("clusters", "Cluster count", min = 1, max = 9, value = 3)
+    sliderInput("clusters", "Cluster count", min = 1, max = 15, value = 5)
   ),
   mainPanel(
     plotOutput('plot1')
